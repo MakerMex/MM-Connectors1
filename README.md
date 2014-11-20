@@ -1,4 +1,4 @@
 MM-Connectors1
 ==============
 
-MM1 Frame System Connectors.
+MM1 Printer Frame System Connectors.
