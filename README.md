@@ -6,3 +6,13 @@ MM1 Printer Frame System Connectors.
 Install:
 To use PTR_Conector.scad you need to install http://www.openscad.org/
 And also extract https://github.com/Obijuan/obiscad on this folder.
+
+License:
+
+All the files are Copyright 2014 MakerMex and licensed using CreativeCommons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0): http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Unless other license is specified for a particular file.
+
+Attribution:
+
+Original design: Juan Carlos Orozco
